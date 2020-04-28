@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adithya/ReinfLearn/Practice/gz_vizi/src/path_vizualizer/src/printThecsv.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+

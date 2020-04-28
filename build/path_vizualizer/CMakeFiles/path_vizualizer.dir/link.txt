@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libpath_vizualizer.so -o /home/adithya/ReinfLearn/Practice/gz_vizi/devel/lib/libpath_vizualizer.so CMakeFiles/path_vizualizer.dir/src/path_viz.cpp.o  -L/usr/lib/x86_64-linux-gnu/gazebo-7/plugins 

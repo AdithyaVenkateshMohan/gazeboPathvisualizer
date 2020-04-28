@@ -1,0 +1,8 @@
+prefix=/home/adithya/ReinfLearn/Practice/gz_vizi/install
+
+Name: path_vizualizer
+Description: Description of path_vizualizer
+Version: 0.0.0
+Cflags: -I/home/adithya/ReinfLearn/Practice/gz_vizi/install/include
+Libs: -L/home/adithya/ReinfLearn/Practice/gz_vizi/install/lib -lpath_vizualizer
+Requires: gazebo_dev gazebo_plugins gazebo_ros geometry_msgs nav_msgs roscpp rospy std_msgs
